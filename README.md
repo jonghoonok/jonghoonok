@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm jonghoon
 
 ### About Me
-- Blog: [My Github Blog](https://jonghoonok.github.io)
+- [My Resume](https://jonghoonok.github.io)
 
 ---
 [![Jonghoon's github stats](https://github-readme-stats.vercel.app/api?username=jonghoonok)](https://github.com/anuraghazra/github-readme-stats)
