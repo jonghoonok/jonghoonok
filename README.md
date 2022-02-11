@@ -8,6 +8,7 @@
 - BE in Mechanical Engineering, Seoul National University 2013.03 ~ 2020.02
 
 🔭 Work Experience
+- Backend Developer at Kakao Corp. 2021. 12 ~
 - Software Engineer at Softbank Corp. 2021. 01 ~
 
 📚 Skills
