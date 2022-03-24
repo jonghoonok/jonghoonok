@@ -9,7 +9,7 @@
 
 🔭 Work Experience
 - Backend Developer at Kakao Corp. 2021. 12 ~
-- Software Engineer at Softbank Corp. 2021. 01 ~
+- Software Engineer at Softbank Corp. 2021. 01 ~ 2021. 12
 
 📚 Skills
 
