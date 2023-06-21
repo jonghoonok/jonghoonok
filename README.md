@@ -13,7 +13,7 @@
 
 📚 Skills
 
-- HTML CSS Javascript React Python Java Spring
+- Java Kotlin Spring Python React.js
 
 📫 Contact
 
